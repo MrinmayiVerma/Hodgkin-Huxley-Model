@@ -2,7 +2,7 @@
 ## Overview
 The **Hodgkin-Huxley (HH) model** is a fundamental biophysical framework used for simulating neuronal excitability, where neurons generate action potentials through voltage-gated ion channels, closely mimicking the electrophysiological dynamics of biological neurons.<br>
  <br>
-![alt text](https://github.com/MrinmayiVerma/Leaky-Integrate-and-Fire-Model/blob/main/LIF_graph.png)
+![alt text](https://github.com/MrinmayiVerma/Hodgkin-Huxley-Model/blob/main/HHM_graph.png)
 The above simulation captures the essential **electrophysiological behavior** of neurons and generates two key visualizations:<br>
 the **Membrane Potential Plot**, which illustrates the evolution of voltage over time, and <br> 
 the **Gating Variable Plot**, which represents the dynamics of ion channel activation and inactivation.<br>
